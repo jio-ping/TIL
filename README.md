@@ -17,6 +17,7 @@
 </details>
 
 <h3 style="color:#c5d1eb">JavaScript & TypeScript</h3>
+<span>📌  <a href="https://github.com/jio-ping/TIL/blob/b35eade2e92c7e2868db827136ca1cc904db92e5/Javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%95%A8%EC%88%98%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.pdf">Javascript 함수 작동원리 - 콜스택, 이벤트루프 <a/></span><br/>
 <span>📕 <a href="https://localhost1029.notion.site/utility-type-df747f6f609d41418fbe3b18610bbc0d?pvs=4">Typescript utility type <a/></span><br/>
 <span>📕 <a href="https://localhost1029.notion.site/typescript-study-f62f24cf5f6f48f18d17fa03ef26267b?pvs=4">Typescript studylog <a/></span><br/>
 <span>📕 <a href="https://localhost1029.notion.site/c7f984bf54db4fcbba2f3fd99c5c76ec?pvs=4">Javascript studylog<a/></span><br/>
