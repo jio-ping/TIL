@@ -128,3 +128,25 @@ function quadraticSpace(n) {
 }
 // n x n 2차원 배열 생성
 ```
+
+</br>
+
+<b>😃 시간복잡도, 공간복잡도 example</b></br>
+
+```javascript
+function subtotals(array) {
+  const subtotalArray = Array(array.length);
+
+  for (let i = 0; i < array.length; i++) {
+    let subtotal = 0;
+    for (let j = 0; j <= i; j++) {
+      subtotal += array[j];
+    }
+    subtotalArray[i] = subtotal;
+  }
+
+  return subtotalArray;
+}
+// 시간 복잡도 : 중첩 반복문으로 O(n²)
+// 공간 복잡도: subtotalArray가 입력 크기 n에 비례하는 공간, 반복문의 변수 (i,j), subtotal O(n + 3) ➡️ O(n)
+```
