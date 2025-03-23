@@ -42,8 +42,29 @@
 <span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/DataStructure%20%26%20Algorithm/search.md">검색</a></span><br/>
 <span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/DataStructure%20%26%20Algorithm/recursion.md">재귀</a></span><br/>
 <span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/DataStructure%20%26%20Algorithm/%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC%2C%20%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC%2C%20%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md">버블정렬, 선택정렬, 삽입정렬</a></span><br/>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/DataStructure%20%26%20Algorithm/%ED%95%A9%EB%B3%91%EC%A0%95%EB%A0%AC%2C%ED%80%B5%EC%A0%95%EB%A0%AC%2C%EA%B8%B0%EC%88%98%EC%A0%95%EB%A0%AC.md">합병정렬, 퀵정렬, 기수정렬</a></span><br/>
 
 <hr>
+<h3 style="color:#c5d1eb">Computer Science</h3>
+<h4>Database System</h4>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/Database%20Systems/1-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%9D%B4%ED%95%B4.md">1.데이터베이스의 이해</a></span><br/>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/Database%20Systems/2-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%AA%A8%EB%8D%B8%EB%A7%81.md">2.데이터베이스 모델링</a></span><br/>
+
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/Database%20Systems/3-%EA%B4%80%EA%B3%84%ED%98%95%20%EB%AA%A8%EB%8D%B8.md">3.관계형 모델</a></span><br/>
+
+<h4>Operating System</h4>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/Opertaing%20Systems/%EA%B0%9C%EC%9A%94.md">1.개요</a></span><br/>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/Opertaing%20Systems/2-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%93%B0%EB%A0%88%EB%93%9C.md">2.프로세스와 쓰레드</a></span><br/>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/Opertaing%20Systems/3-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md">3.프로세스 스케줄링</a></span><br/>
+
+<h4>Discrete Mathmatics</h4>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/DiscreteMathmatics/%EA%B0%9C%EC%9A%94.md">1.개요</a></span><br/>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/DiscreteMathmatics/2-%EB%85%BC%EB%A6%AC.md">2.논리</a></span><br/>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/DiscreteMathmatics/3-%EC%A6%9D%EB%AA%85.md">3.논리</a></span><br/>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/DiscreteMathmatics/4-%EC%A7%91%ED%95%A9%EB%A1%A0.md">4.집합론</a></span><br/>
+<span>📝 <a href="https://github.com/jio-ping/TIL/blob/main/DiscreteMathmatics/5-%ED%96%89%EB%A0%AC.md">5.행렬</a></span><br/>
+<hr>
+
 <h3 style="color:#c5d1eb">Experience & Trouble Shooting</h3>
 <span>📕 <a href="https://localhost1029.notion.site/intersection-observer-troubleshooting-102f9a2a1f3a801c895ce4329ec12f43">intersection observer로 무한스크롤 만들기 + troubleshooting 😂</a></span><br/>
 
